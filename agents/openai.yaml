@@ -1,0 +1,5 @@
+interface:
+  display_name: "T3 Delegate"
+  short_description: "Route repository tasks to T3 and track their results"
+policy:
+  allow_implicit_invocation: true
